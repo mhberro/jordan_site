@@ -25,7 +25,7 @@ interests:
 - Network Based Algorithms
 - Machine Learning 
 - Software and Data Engineering
-name: Mo Berro
+name: Jordan Davis
 organizations:
 - name: Health Management Systems
   url: ""
@@ -49,7 +49,7 @@ user_groups:
 - Visitors
 ---
 
-Mo Berro is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Jordan Davis is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
 ![reviews](../../img/certifacates.jpg)
 
